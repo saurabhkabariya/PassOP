@@ -20,7 +20,7 @@ const Navbar = () => {
             <a className='hover:font-bold hover:text-green-400' href='/'>Contact</a>
         </li>
       </ul> */}
-      <button className='bg-green-900 text-white px-4 py-1 rounded-md flex gap-2 items-center justify-center border border-green-400'>
+      <button className='bg-green-900 text-white px-4 py-1 rounded-md flex gap-2 items-center justify-center border border-green-400' onClick={()=>window.location.href="https://github.com/saurabhkabariya/PassOP"}>
         <BsGithub className='invert-0 text-2xl'/><span>Github</span>
       </button>
     </nav>

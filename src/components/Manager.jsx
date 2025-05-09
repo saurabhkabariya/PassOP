@@ -101,7 +101,7 @@ const Manager = () => {
     <div>
     <div className="fixed top-0 z-[-2] h-screen w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]">
     </div></div>
-    <div className="bg-slat-50 text-white md:max-w-2/3 md:mycontainer w-full mx-auto">
+    <div className="bg-slat-50 text-white md:max-w-2/3 md:mycontainer w-full mx-auto pt-4">
     <div className='Logo font-bold text-5xl cursor-pointer text-center'><a className='hover:text-green-400' href='/'>
         <span className="text-green-700">
           &lt;
